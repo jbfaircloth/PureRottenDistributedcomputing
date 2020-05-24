@@ -9,4 +9,6 @@ int main() {
   if (x<0) printf (" x is negative\n");
   else if (x>0) printf (" x is positive\n");
   else printf ("Number is 0\n");
+  return 0;
+
 }
